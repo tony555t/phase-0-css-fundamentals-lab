@@ -3,3 +3,49 @@ body {
   height: 100%;
   margin: 0;
 }
+img {
+  display: block;
+  margin: auto;
+}
+nav{
+  float: left;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 17px;
+  width: 100%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
+  text-align: center; /* If you want the text to be centered */
+}
+figcaption{
+  float: left;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 17px;
+  width: 100%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
+  text-align: center; /* If you want the text to be centered */
+  
+}
+section{
+  width: 800px;
+  text-align: center;
+  line-height: small;
+  width: 89%;
+}
+div {
+  
+    float: left;
+    height: 100px;
+    width: 22%;
+    padding:10px;
+    background-color: red;
+    
+  }
+ details>h3{
+    float: left;
+    height: 100px;
+    width: 22%;
+    padding:10px;
+    
+
+  }
+
+  
